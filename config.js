@@ -1,12 +1,14 @@
-﻿module.exports = {
+require('dotenv').config();
+
+module.exports = {
     app: {
-        token: 'e',
+        // Use the process.env to get the token
+        token: process.env.TOKEN,
         playing: 'Music in Servers ✨',
         global: true,
         guild: '1090560322760347649',
         ExtraMessages: false,
         loopMessage: false,
-
     },
 
     opt: {
