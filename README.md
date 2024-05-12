@@ -41,11 +41,11 @@ Tailor RgMusicBot to your server's needs with flexible configuration options:
 
 ## Getting Started
 
-1.Clone the repository or fork it.
+1. Clone the repository or fork it.
 
-2.Add the token in env secrets or in .env.
+2. Add the token in env secrets or in .env.
 
-3.Run the main.js, enjoy!
+3. Run the main.js, enjoy!
 
 ### Adding RgMusicBot to Your Server
 
