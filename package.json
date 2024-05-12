@@ -14,7 +14,7 @@
         "@distube/ytdl-core": "^4.11.8",
         "discord-player": "^6.6.3",
         "discord.js": "^14.13.0",
-        "dotenv": "^10.0.0", // Add dotenv package
+        "dotenv": "^10.0.0",
         "ffmpeg-static": "^5.0.2",
         "genius-lyrics": "^4.4.3",
         "ms": "^3.0.0-canary.1",
