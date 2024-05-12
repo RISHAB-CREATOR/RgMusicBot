@@ -1,7 +1,7 @@
 {
     "name": "music-bot",
     "main": "main.js",
-    "author": "ZerioDev",
+    "author": "rishab",
     "version": "8.0.0",
     "repository": "https://github.com/ZerioDev/Music-bot.git",
     "description": "A complete code to download for a cool Discord music bot.",
@@ -14,6 +14,7 @@
         "@distube/ytdl-core": "^4.11.8",
         "discord-player": "^6.6.3",
         "discord.js": "^14.13.0",
+        "dotenv": "^10.0.0", // Add dotenv package
         "ffmpeg-static": "^5.0.2",
         "genius-lyrics": "^4.4.3",
         "ms": "^3.0.0-canary.1",
